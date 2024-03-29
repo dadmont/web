@@ -3,7 +3,7 @@
 <p align="center">Лабораторная работа №3 <br> "node.js" </p>
 
 <p align="right">Выполнил: Шевцов В. С.</p>
-<p align="right">Проверил: Соболев Е. И.</p>
+
 
 <p align="center">г. Южно-Сахалинск <br> 2024 год</p>
 
