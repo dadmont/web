@@ -2,8 +2,8 @@
 
 <p align="center">Лабораторная работа №4 <br> "node.js" </p>
 
-<p align="right">Выполнил: Шибанов В. С.</p>
-<p align="right">Проверил: Соболев Е. И.</p>
+<p align="right">Выполнил: Шевцов В. С.</p>
+
 
 <p align="center">г. Южно-Сахалинск <br> 2023 год</p>
 
