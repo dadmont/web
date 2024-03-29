@@ -5,7 +5,7 @@
 <p align="right">Выполнил: Шевцов В. С.</p>
 
 
-<p align="center">г. Южно-Сахалинск <br> 2023 год</p>
+<p align="center">г. Южно-Сахалинск <br> 2024 год</p>
 
 <h2 align="center">Введение</h2>
 <p align="justify">Работа с PHP и Node.js</p>
