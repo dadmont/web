@@ -189,6 +189,12 @@ https://www.codewars.com/kata/can-you-keep-a-secret
     alert( isEmpty(schedule) ); // true
     schedule["8:30"] = "get up";
     alert( isEmpty(schedule) ); // false
+
+
+function isEmpty(obj)
+{
+    return Object.keys(obj).length == 0;
+}
 ```
 
 3. 
